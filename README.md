@@ -6,7 +6,7 @@ This is the development location for the gdalUtils library for R.  To install th
 ```R
 install.packages("devtools")
 
-devtools:::install_github("gearslaboratory/gdalUtils")
+devtools:::install_github("schuch666/gdalUtils")
 ```
 
 Note that before using gdalUtils, you we need an installation of GDAL somewhere on your system (https://gdal.org/).
